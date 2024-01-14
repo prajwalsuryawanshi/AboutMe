@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prajwal Suryawanshi</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-- 🌱 I’m currently learning Data Science **from IIT,Madras**
+- 🌱 I’m currently learning Data Science <a herf="iitm.ac.in">**from IIT,Madras**</a>
 
 - 📫 How to reach me **prajwal221104@gmail.com**
 
